@@ -20,6 +20,6 @@ This is my furst repository.
 - GitHub basics
 
   ## Connect With Me
-  [foolow me on medium](hhtps://medium.com/@godsday.gogdocs)
+  [follow me on medium](https://medium.com/@godsday.gogdocs)
   
   

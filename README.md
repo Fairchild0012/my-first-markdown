@@ -8,3 +8,18 @@ Hello, this is my **first project** on GitHub!
 
 ## Next Step 
 I'm learning with my professor
+
+
+# My First GitHub README
+Hello, my name is Godsday 
+This is my furst repository.
+
+## What I'M Learning 
+- Markdown
+- Tech Writing
+- GitHub basics
+
+  ## Connect With Me
+  [foolow me on medium](hhtps://medium.com/@godsday.gogdocs)
+  
+  

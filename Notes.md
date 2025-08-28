@@ -19,3 +19,16 @@ Name  | Skill  |  Level  |
 Godsday | Tech Writing | Beginner |
   Anegbe    | Markdown     | Intermediate |
 Ignatius  | Github    |  Pro    |
+
+___
+
+## My Checllist
+
+- [x] Create a Github account
+- [x] Write my first README
+- [x] Learn headings, list, and tables
+- [ ] Learn images in Markdown
+- [ ] Become a Markdown Pro💪
+
+      
+

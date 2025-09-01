@@ -30,5 +30,17 @@ ___
 - [ ] Learn images in Markdown
 - [ ] Become a Markdown Pro💪
 
+
+      - Things I’m learning:
+  - Markdown
+    - Headings
+    - Lists
+    - Bold/Italics
+  - GitHub
+    - Repositories
+    - Branching
+    - Pull requests
+
+
       
 

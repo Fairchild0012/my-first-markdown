@@ -41,6 +41,26 @@ ___
     - Branching
     - Pull requests
 
-> This is my first branch update ✨....
+> This is my first branch update ✨
+
+
+## Extra Markdown Tricks
+
+### 1. Link with a title
+[Visit Medium](https://medium.com "Click here to read articles")
+
+### 2. Nested List
+- Main item
+  - Sub item 1
+  - Sub item 2
+
+### 3. Horizontal Rule
+This is above the line.
+---
+This is below the line.
+
+### 4. Image with a link
+[![My Medium Screenshot Article](https://via.placeholder.com/300x150.png)](https://medium.com/@godsdaygogdocs/how-to-take-screenshot-on-windows-11-674a8944720d)
+
 
 

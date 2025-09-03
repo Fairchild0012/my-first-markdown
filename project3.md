@@ -1,6 +1,20 @@
 # PDF Converter
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Active-blue)
+
 A simple tool to convert Word documents into PDF.
+
+## Table of Contents
+
+- [Installation](#installation)  
+- [Features](#features)  
+- [Screenshot](#screenshot)  
+- [License](#license)  
+- [Contributing](#contributing)  
+- [Demo](#demo)  
+
 
 ## Installation
 
@@ -20,3 +34,21 @@ A simple tool to convert Word documents into PDF.
 ## License
 
 MIT License
+
+
+## Contributing
+
+Contributions are welcome!  
+
+If you’d like to improve this project:  
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-branch`)  
+3. Make your changes  
+4. Commit and push your branch  
+5. Open a Pull Request
+
+## Demo
+
+You can try the live demo here: [PDF Converter Demo](https://example.com/demo)
+
+

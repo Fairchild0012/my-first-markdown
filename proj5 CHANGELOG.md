@@ -22,3 +22,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [1.0.1] - 2025-09-02
 ### Fixed
 - Minor formatting issues in documentation.
+
+## [Unreleased]
+
+### Added
+- ISSUE_TEMPLATE.md file
+- PULL_REQUEST_TEMPLATE.md file
+- CODE_OF_CONDUCT.md file
+- SECURITY.md file
+- SUPPORT.md file
+
+### Changed
+- Updated CONTRIBUTING.md with clearer steps
+- Improved README with badges and demo link
+
+### Fixed
+- Typo in README.md

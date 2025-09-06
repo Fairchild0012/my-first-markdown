@@ -47,4 +47,13 @@ Each file was created as part of mini-projects to practice real-world GitHub doc
 
 ## Connect With Me  
 - 📝 [Follow me on Medium](https://medium.com/@Fairchild0012)  
-- 🐙 [GitHub Profile](https://github.com/Fairchild0012)  
+- 🐙 [GitHub Profile](https://github.com/Fairchild0012)
+
+
+  ## 📸 Demo
+
+Here’s a quick look at the project:
+
+![Demo Screenshot 1](https://via.placeholder.com/600x400.png?text=Demo+Image+1)  
+![Demo Screenshot 2](https://via.placeholder.com/600x400.png?text=Demo+Image+2)
+

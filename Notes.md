@@ -63,4 +63,11 @@ This is below the line.
 [![My Medium Screenshot Article](https://via.placeholder.com/300x150.png)](https://medium.com/@godsdaygogdocs/how-to-take-screenshot-on-windows-11-674a8944720d)
 
 
+# GitHub Raw Link Cheat Sheet  
+Format: https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/FILENAME
+
+
+
+![myscreenshot](https://raw.githubusercontent.com/Fairchild0012/my-first-markdown/main/Screenshot%20for%20README.png)
+
 

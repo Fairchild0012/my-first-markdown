@@ -54,6 +54,6 @@ Each file was created as part of mini-projects to practice real-world GitHub doc
 
 Here’s a quick look at the project:
 
-![Demo Screenshot 1](https://via.placeholder.com/600x400.png?text=Demo+Image+1)  
+![Demo Screenshot 1](assets/Screenshot for README.png)  
 ![Demo Screenshot 2](https://via.placeholder.com/600x400.png?text=Demo+Image+2)
 

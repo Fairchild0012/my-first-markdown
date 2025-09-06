@@ -8,7 +8,7 @@ Hello, this is my **first project on GitHub!** 🎉
 ---
 
 ## Demo  
-👉 [View My Medium Articles](https://medium.com/@Fairchild0012)  
+ [View My Medium Articles](https://medium.com/@Fairchild0012)  
 
 ---
 
@@ -16,7 +16,8 @@ Hello, this is my **first project on GitHub!** 🎉
 - [Things I've Learnt](#things-ive-learnt)  
 - [Next Step](#next-step)  
 - [About This Repo](#about-this-repo)  
-- [Connect With Me](#connect-with-me)  
+- [Connect With Me](#connect-with-me)
+- [Demo](demo)
 
 ---
 
